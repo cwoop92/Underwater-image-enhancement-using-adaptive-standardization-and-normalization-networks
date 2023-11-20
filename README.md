@@ -6,7 +6,7 @@ If you use our code, please cite our paper. Thanks!
 
 ## Requirement
 ```
-Python 3.6, torch 1.9.0. Other details are in the requirements.txt.
+Python 3.6, torch 1.7.1. Other details are in the requirements.txt.
 ```
 
 ## Testing
